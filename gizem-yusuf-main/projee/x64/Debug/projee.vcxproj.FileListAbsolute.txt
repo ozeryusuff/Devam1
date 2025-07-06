@@ -1,3 +1,0 @@
-C:\Users\Yusuf\OneDrive\Desktop\gizem-yusuf-main\x64\Debug\raylib.dll
-C:\Users\Yusuf\OneDrive\Desktop\gizem-yusuf-main\x64\Debug\glfw3.dll
-C:\Users\Yusuf\OneDrive\Desktop\gizem-yusuf-main\projee\x64\Debug\projee.vcxproj.Up2Date
